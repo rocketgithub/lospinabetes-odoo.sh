@@ -1,0 +1,1 @@
+# lospinabetes-odoo.sh
