@@ -1,3 +1,8 @@
 [submodule "pinabetes"]
 	path = pinabetes
 	url = git@github.com:rocketgithub/pinabetes.git
+
+[submodule "l10n_gt_extra"]
+	path = l10n_gt_extra
+	url = git@github.com:rocketgithub/l10n_gt_extra.git
+	branch = 11.0
