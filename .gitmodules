@@ -1,0 +1,3 @@
+[submodule "pinabetes"]
+	path = pinabetes
+	url = git@github.com:rocketgithub/pinabetes.git
